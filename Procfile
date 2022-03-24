@@ -1,1 +1,1 @@
-Worker: node Ano.js
+Worker: node SADAM.js
